@@ -79,6 +79,7 @@ Press **Submit**
 * UniFi Switch 24 *(US-24)*
 * UniFi Switch 24 PoE Gen2 *(USW-24-POE)*
 * UniFi Switch 48 *(US-48)*
+* UniFi Switch 48 Pro *(USW-Pro-48)*
 * UniFi Switch 48 PoE Gen2 *(USW-48-POE)*
 * UniFi Switch 8 *(US-8)*
 * UniFi Switch 8-150W *(US-8-150W)*
@@ -104,6 +105,12 @@ Press **Submit**
 * UniFi WiFi BaseStation XG *(UWB-XG)*
 * UniFi WiFi BaseStation XG Black *(UWB-XG-BK)*
 * UniFi XG Server *(UAS-XG)*
+* UniFi Switch Enterprise XG 24 *(USW-EnterpriseXG-24)*
+* UniFi Switch Pro Aggregation *(USW-Pro-Aggregation)*
+* UniFi Switch Enterprise 24 PoE *(USW-Enterprise-24-PoE-EU)*
+* UniFi Switch Enterprise 48 PoE *(USW-Enterprise-48-PoE)*
+* UniFi Switch Lite 8 PoE *(USW-Lite-8-POE)*
+* UniFi Switch Lite 16 PoE *(USW-Lite-16-POE)*
 
 ## License
 
@@ -114,3 +121,5 @@ MIT
 Please send suggestion or pull requests to make this templates better. Also let me know if you encounter any issues.
 
 Repo created in 2020 by [Tobias Lindberg](https://github.com/tobiasehlert)
+Repo archived in 2022 by [Tobias Lindberg](https://github.com/tobiasehlert)
+Repo cloned in 2022 by [Florian Heigl](https://github.com/FlorianHeigl)
