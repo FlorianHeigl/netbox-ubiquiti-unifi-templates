@@ -1966,3 +1966,847 @@ interfaces:
   type: 10gbase-t
 - name: LAN2
   type: 10gbase-t
+---
+manufacturer: Ubiquiti
+model: UniFi Switch Pro Aggregation
+slug: unifi-switch-pro-aggregation
+part_number: USW-Pro-Aggregation
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: "UniFi Switch Aggregation Pro, 10G 28-Port Managed Aggregation Switch, 100W,\
+  \ (28) SFP+, (4) SFP28\r\nDimensions: 442 x 325 x 44 mm (17.4 x 12.8 x 1.7\")"
+power-ports:
+- name: Input
+  type: iec-60320-c14
+  maximum_draw: 100
+  allocated_draw: null
+  label: ''
+  description: ''
+- name: RPS
+  type: ''
+  maximum_draw: 100
+  allocated_draw: null
+  label: ''
+  description: ''
+interfaces:
+- name: SFP+ 1
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 2
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 3
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 4
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 5
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 6
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 7
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 8
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 9
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 10
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 11
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 12
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 13
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 14
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 15
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 16
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 17
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 18
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 19
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 20
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 21
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 22
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 23
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 24
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 25
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 26
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 27
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 28
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP28 29
+  type: 25gbase-x-sfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP28 30
+  type: 25gbase-x-sfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP28 31
+  type: 25gbase-x-sfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP28 32
+  type: 25gbase-x-sfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+
+---
+manufacturer: Ubiquiti
+model: Switch Enterprise 24 PoE
+slug: usw-enterprise-24-poe
+part_number: USW-Enterprise-24-PoE-EU
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: "Switch Enterprise PoE 24\r\n\r\nLayer 3, PoE switch with (12) 2.5GbE, 802.3at\
+  \ PoE+ RJ45 ports, (12) GbE, 802.3at PoE+ RJ45 ports, and (2) 10G SFP+ ports.\r\n\
+  \r\nDimensions: 442.4 x 43.7 x 325 mm (17.4 x 1.7 x 12.8\")"
+power-ports:
+- name: Input
+  type: iec-60320-c14
+  maximum_draw: 550
+  allocated_draw: 100
+  label: ''
+  description: ''
+- name: RPS
+  type: ''
+  maximum_draw: 550
+  allocated_draw: null
+  label: ''
+  description: ''
+interfaces:
+- name: '1'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '2'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '3'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '4'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '5'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '6'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '7'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+---
+manufacturer: Ubiquiti
+model: Switch Enterprise 24 PoE
+slug: usw-enterprise-24-poe
+part_number: USW-Enterprise-24-PoE-EU
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: "Switch Enterprise PoE 24\r\n\r\nLayer 3, PoE switch with (12) 2.5GbE, 802.3at\
+  \ PoE+ RJ45 ports, (12) GbE, 802.3at PoE+ RJ45 ports, and (2) 10G SFP+ ports.\r\n\
+  \r\nDimensions: 442.4 x 43.7 x 325 mm (17.4 x 1.7 x 12.8\")"
+power-ports:
+- name: Input
+  type: iec-60320-c14
+  maximum_draw: 550
+  allocated_draw: 100
+  label: ''
+  description: ''
+- name: RPS
+  type: ''
+  maximum_draw: 550
+  allocated_draw: null
+  label: ''
+  description: ''
+interfaces:
+- name: '1'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '2'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '3'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '4'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '5'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '6'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '7'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '8'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '9'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '10'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '11'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '12'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '25'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '26'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+---
+manufacturer: Ubiquiti
+model: Switch Enterprise 48 PoE
+slug: switch-enterprise-48-poe
+part_number: USW-Enterprise-48-PoE
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: ''
+power-ports:
+- name: Input
+  type: iec-60320-c14
+  maximum_draw: 900
+  allocated_draw: 150
+  label: ''
+  description: ''
+- name: RPS
+  type: ''
+  maximum_draw: 900
+  allocated_draw: 150
+  label: ''
+  description: ''
+interfaces:
+- name: '1'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '2'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '3'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '4'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '5'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '6'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '7'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '8'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '9'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '10'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '11'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '12'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '13'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '14'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '15'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '16'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '17'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '18'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '19'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '20'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '21'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '22'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '23'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '24'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '25'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '26'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '27'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '28'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '29'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '30'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '31'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '32'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '33'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '34'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '35'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '36'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '37'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '38'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '39'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '40'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '41'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '42'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '43'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '44'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '45'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '46'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '47'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '48'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '49'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '50'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '51'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '52'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: eth0
+  type: virtual
+  mgmt_only: true
+  label: eth0
+  description: Internal Management
+---
+manufacturer: Ubiquiti
+model: Switch Enterprise XG 24
+slug: switch-enterprise-xg-24
+part_number: USW-EnterpriseXG-24
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: "[Switch Enterprise XG 24](https://store.ui.com/collections/unifi-network-routing-switching/products/switch-enterprisexg-24)\r\
+  \n\r\nManaged Layer 3 switch with (24) 10G RJ45 ports, and (2) 25G SFP28 ports for\
+  \ ber uplinks.\r\n\r\n\r\n\r\nDimensions: 442 x 44 x 285 mm (17.4 x 1.7 x 11.2\"\
+  )"
+power-ports:
+- name: Input
+  type: iec-60320-c14
+  maximum_draw: 100
+  allocated_draw: null
+  label: ''
+  description: ''
+- name: RPS
+  type: ''
+  maximum_draw: 100
+  allocated_draw: null
+  label: ''
+  description: ''
+interfaces:
+- name: '1'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '2'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '3'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '4'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '5'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '6'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '7'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '8'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '9'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '10'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '11'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '12'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '13'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '14'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '15'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '16'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '17'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '18'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '19'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '20'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '21'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '22'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '23'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '24'
+  type: 10gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '25'
+  type: 25gbase-x-sfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '26'
+  type: 25gbase-x-sfp28
+  mgmt_only: false
+  label: ''
+  description: ''
