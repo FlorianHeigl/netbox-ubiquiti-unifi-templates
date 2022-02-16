@@ -120,6 +120,6 @@ MIT
 
 Please send suggestion or pull requests to make this templates better. Also let me know if you encounter any issues.
 
-Repo created in 2020 by [Tobias Lindberg](https://github.com/tobiasehlert)
-Repo archived in 2022 by [Tobias Lindberg](https://github.com/tobiasehlert)
-Repo cloned in 2022 by [Florian Heigl](https://github.com/FlorianHeigl)
+* Repo created in 2020 by [Tobias Lindberg](https://github.com/tobiasehlert)
+* Repo archived in 2022 by [Tobias Lindberg](https://github.com/tobiasehlert)
+* Repo forked/updated in 2022 by [Florian Heigl](https://github.com/FlorianHeigl)
