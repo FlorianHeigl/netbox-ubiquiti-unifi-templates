@@ -2429,3 +2429,159 @@ interfaces:
   mgmt_only: false
   label: ''
   description: ''
+---
+manufacturer: Ubiquiti
+model: Switch Enterprise 24 PoE
+slug: usw-enterprise-24-poe
+part_number: USW-Enterprise-24-PoE-EU
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: "Switch Enterprise PoE 24\r\n\r\nLayer 3, PoE switch with (12) 2.5GbE, 802.3at\
+  \ PoE+ RJ45 ports, (12) GbE, 802.3at PoE+ RJ45 ports, and (2) 10G SFP+ ports.\r\n\
+  \r\nDimensions: 442.4 x 43.7 x 325 mm (17.4 x 1.7 x 12.8\")"
+power-ports:
+- name: Input
+  type: iec-60320-c14
+  maximum_draw: 550
+  allocated_draw: 100
+  label: ''
+  description: ''
+- name: RPS
+  type: ''
+  maximum_draw: 550
+  allocated_draw: null
+  label: ''
+  description: ''
+interfaces:
+- name: '1'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '2'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '3'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '4'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '5'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '6'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '7'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '8'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '9'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '10'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '11'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '12'
+  type: 2.5gbase-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '13'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '14'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '15'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '16'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '17'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '18'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '19'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '20'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '21'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '22'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '23'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '24'
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '25'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: '26'
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+
