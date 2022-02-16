@@ -1123,7 +1123,6 @@ interfaces:
 - name: '5'
   type: 1000base-t
 ---
----
 manufacturer: Ubiquiti
 model: UniFi Switch Lite 8 PoE
 slug: unifi-switch-lite-8-poe
