@@ -2245,3 +2245,187 @@ interfaces:
   mgmt_only: false
   label: ''
   description: ''
+---
+manufacturer: Ubiquiti
+model: UniFi Switch Pro Aggregation
+slug: unifi-switch-pro-aggregation
+part_number: USW-Pro-Aggregation
+u_height: 1
+is_full_depth: true
+subdevice_role: ''
+comments: "UniFi Switch Aggregation Pro, 10G 28-Port Managed Aggregation Switch, 100W,\
+  \ (28) SFP+, (4) SFP28\r\nDimensions: 442 x 325 x 44 mm (17.4 x 12.8 x 1.7\")"
+power-ports:
+- name: Input
+  type: iec-60320-c14
+  maximum_draw: 100
+  allocated_draw: null
+  label: ''
+  description: ''
+- name: RPS
+  type: ''
+  maximum_draw: 100
+  allocated_draw: null
+  label: ''
+  description: ''
+interfaces:
+- name: SFP+ 1
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 2
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 3
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 4
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 5
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 6
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 7
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 8
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 9
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 10
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 11
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 12
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 13
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 14
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 15
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 16
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 17
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 18
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 19
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 20
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 21
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 22
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 23
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 24
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 25
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 26
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 27
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP+ 28
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP28 29
+  type: 25gbase-x-sfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP28 30
+  type: 25gbase-x-sfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP28 31
+  type: 25gbase-x-sfp28
+  mgmt_only: false
+  label: ''
+  description: ''
+- name: SFP28 32
+  type: 25gbase-x-sfp28
+  mgmt_only: false
+  label: ''
+  description: ''
